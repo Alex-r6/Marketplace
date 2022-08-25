@@ -1,0 +1,10 @@
+p, h2 {
+    font-family: 'Plus Jakarta Sans', sans-serif;;
+}
+.M_W {
+    max-width: 912px;
+    width: 100%;
+}
+.P_W {
+    padding: 0 40px;
+}
